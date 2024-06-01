@@ -132,3 +132,19 @@
   color: #2e2f42;
   margin-bottom: 12px;
 }
+
+.load-more-btn {
+  color: rgb(255, 255, 255);
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  width: auto;
+  height: 40px;
+  border: none;
+  border-radius: 8px;
+  background: rgb(78, 117, 255);
+  margin: 0 auto;
+  margin-top: 8px;
+}
